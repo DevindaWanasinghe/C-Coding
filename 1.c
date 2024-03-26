@@ -8,6 +8,6 @@ int main(){
     
     printf("\nUser Entered Integer No: %d",x); //display output
 
-    return 0;//return 
+    return 0;
 
 }
